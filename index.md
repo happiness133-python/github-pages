@@ -1,7 +1,7 @@
 ---
 title: Welcome to my python blog
 ---
-# Customized text
+# GHeader1
 Explanation will follow
 
 ## Header2
