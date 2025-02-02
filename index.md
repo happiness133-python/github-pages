@@ -1,7 +1,5 @@
 ---
 title: Energize Your Code: Adventures in Python & Machine Learning
----
----
 layout: page
 tagline: Easy websites with GitHub Pages
 description: Minimal tutorial on making a simple website with GitHub Pages
