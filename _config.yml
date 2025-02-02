@@ -2,7 +2,7 @@ author: Márton Demcsik
 title: "Energize Your Code: Adventures in Python & Machine Learning"
 description: "Exploring Python and machine learning to improve energy efficiency."
 url: "https://happiness133-python.github.io/skills-github-pages/"
-#baseurl: "/"
+baseurl: "/"
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
@@ -10,7 +10,7 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 markdown: kramdown
 permalink: /:categories/:year/:month/:day/:title/
-#paginate: 5
+paginate: 5
 paginate_path: "/page:num/"
 exclude:
   - Gemfile
