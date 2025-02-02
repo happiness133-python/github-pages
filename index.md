@@ -1,6 +1,7 @@
 ---
 title: Energize Your Code: Adventures in Python & Machine Learning
 ---
+
 ### Analyzing Energy Consumption: Unveiling Patterns and Predicting the Future
 Welcome to my blog, where I'll be sharing my exciting journey of using Python and machine learning to revolutionize energy efficiency!
 
