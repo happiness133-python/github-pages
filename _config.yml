@@ -3,8 +3,7 @@ title: "Energize Your Code: Adventures in Python & Machine Learning"
 description: "Exploring Python and machine learning to improve energy efficiency."
 url: "https://happiness133-python.github.io/skills-github-pages/"
 baseurl: "/"
-theme: "minima"
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
