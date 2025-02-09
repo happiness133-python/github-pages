@@ -6,7 +6,7 @@ Welcome to **Energize Your Code**, a blog dedicated to exploring the fascinating
 
 ## Blog Posts
 
-### [Analyzing Energy Consumption: Unveiling Patterns and Predicting the Future](https://happiness133-python.github.io/github-pages/yyyy/mm/dd/post-title)
+### [Analyzing Energy Consumption: Unveiling Patterns and Predicting the Future](https://github.com/happiness133-python/github-pages/blob/main/_posts/2025-02-09-First%20version%20available.md)
 In this post, I analyze energy consumption data to uncover patterns between different consumers throughout the year. Using historical data, I train machine learning models to predict future energy consumption based on factors like outside temperature and weather conditions.
 
 ## About Me
