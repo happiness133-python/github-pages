@@ -15,7 +15,7 @@ I'm passionate about leveraging technology to create a more sustainable and effi
 
 ## How to Navigate
 
-- **Blog Posts**: Check out my latest posts [here](https://happiness133-python.github.io/github-pages/).
+- **Blog Posts**: Check out my latest posts [here](https://github.com/happiness133-python/github-pages/blob/main/_posts/2025-02-09-First%20version%20available.md).
 - **Categories**: Explore posts by categories to find topics that interest you.
 - **Tags**: Use tags to quickly navigate to specific topics or technologies discussed in the blog.
 
