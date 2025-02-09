@@ -21,7 +21,7 @@ I'm passionate about leveraging technology to create a more sustainable and effi
 
 ## Contact
 
-Feel free to reach out to me with any questions, comments, or collaboration ideas. You can contact me at [your-email@example.com](mailto:your-email@example.com).
+Feel free to reach out to me with any questions, comments, or collaboration ideas. You can contact me at [demcsik@gmail.com](mailto:demcsik@gmail.com).
 
 Let's connect and make the world a greener place, one line of code at a time! 🌱
 
