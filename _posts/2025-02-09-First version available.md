@@ -1,4 +1,3 @@
----
 
 **Title:**  
 **"Predicting Natural Gas Consumption with Machine Learning: A Basic Approach"**
@@ -6,8 +5,6 @@
 **Introduction:**
 
 In today's energy landscape, accurate forecasting of natural gas consumption is crucial for optimizing supply chains, reducing waste, and ensuring sustainability. With the increasing demand for energy and the need for efficient resource management, leveraging machine learning techniques can provide valuable insights into consumption patterns. This blog post explores a basic machine learning approach to predicting natural gas consumption, highlighting its potential and future enhancements.
-
----
 
 ### **Background: The Importance of Natural Gas Consumption Forecasting**
 
